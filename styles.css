@@ -1,0 +1,39 @@
+body
+{
+    background: radial-gradient(circle, #111, #000);
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+#username
+
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#password
+{
+    text-align: center;
+}
+
+form
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 300px;
+}
+h1
+{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
